@@ -1,0 +1,14 @@
+/home/ubuntu/Desktop/Methods/bin/Debug/net8.0/Methods
+/home/ubuntu/Desktop/Methods/bin/Debug/net8.0/Methods.deps.json
+/home/ubuntu/Desktop/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/home/ubuntu/Desktop/Methods/bin/Debug/net8.0/Methods.dll
+/home/ubuntu/Desktop/Methods/bin/Debug/net8.0/Methods.pdb
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.dll
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/refint/Methods.dll
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.pdb
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/home/ubuntu/Desktop/Methods/obj/Debug/net8.0/ref/Methods.dll
